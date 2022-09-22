@@ -1,51 +1,51 @@
 ---
 en:
   contact_prompts:
-    if_any_questions_html: <a href="/contact">Зв'яжіться з нами</a>, якщо маєте питання.
-    if_continued_trouble_html: <a href="/contact">Зв'яжіться з нами</a>, якщо у вас є проблеми з сайтом.
-    if_we_can_help_html: <a href="/contact">Зв'яжіться з нами</a>, якщо ми можемо чимось допомогти.
+    if_any_questions_html: <a href="/contact">Contact us</a> if you have any questions.
+    if_continued_trouble_html: <a href="/contact">Contact us</a> if you continue having trouble.
+    if_we_can_help_html: <a href="/contact">Contact us</a> if there is anything we can help with.
   core:
-    add_comment: Додати коментар
-    beta: бета
-    comment: Коментар
-    copy_link: Копіювати посилання
-    edit_profile: Редагувати профіль
-    follow: Підписатися
-    follow_back: Взаємно підписатися
-    following: Підписки
-    like: Подобається
-    loading: завантаження...
-    reaction: Реакції
-    report_abuse: Поскраржитись
-    search: Пошук
-    success_settings: Налаштування успішно оновлені.
+    add_comment: Add comment
+    beta: beta
+    comment: Comment
+    copy_link: Copy link
+    edit_profile: Edit profile
+    follow: Follow
+    follow_back: Follow back
+    following: Following
+    like: Like
+    loading: loading...
+    reaction: Reaction
+    report_abuse: Report abuse
+    search: Search
+    success_settings: Successfully updated settings.
   datetime:
     distance_in_words_ago: # https://github.com/openstreetmap/openstreetmap-website/issues/2255
       about_x_hours:
-        one: годину тому
-        other: %{count} годин тому
+        one: about 1 hour ago
+        other: about %{count} hours ago
       about_x_months:
-        one: місяць тому
-        other: %{count} місяців тому
+        one: about 1 month ago
+        other: about %{count} months ago
       about_x_years:
-        one: рік  тому
-        other: %{count} років тому
+        one: about 1 year ago
+        other: about %{count} years ago
       almost_x_years:
-        one: майже рік тому
-        other: майже %{count} років тому
-      half_a_minute: 30 секунд тому
+        one: almost 1 year ago
+        other: almost %{count} years ago
+      half_a_minute: half a minute ago
       less_than_x_seconds:
-        one: тільки що
-        other: менше %{count} секунд тому
+        one: less than 1 second ago
+        other: less than %{count} seconds ago
       less_than_x_minutes:
-        one: менше хвилини тому
-        other: менше %{count} хвилин тому
+        one: less than a minute ago
+        other: less than %{count} minutes ago
       over_x_years:
-        one: більше  року тому
-        other: більше %{count} років тому
+        one: over 1 year ago
+        other: over %{count} years ago
       x_seconds:
-        one: 1 секунду тому
-        other: "%{count} секунди тому"
+        one: 1 second ago
+        other: "%{count} seconds ago"
       x_minutes:
         one: 1 minute ago
         other: "%{count} minutes ago"
